@@ -1,2 +1,2 @@
 # TailwindCSS
-Code for widgets using tailwind css.
+Code for animted card widget using tailwind css.
